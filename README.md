@@ -15,11 +15,11 @@ A Flask-based chatbot that allows users to ask wildlife, biodiversity, and conse
 1️⃣ Install Dependencies
 Ensure you have Python installed, then run:
 
-pip install flask llama-index transformers sentence-transformers faiss-cpu
+pip install flask llama-index sentence-transformers faiss-cpu transformers torch numpy llama-index-llms-huggingface
 
 2️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/chatbot.git
+git clone https://github.com/prateek-mohan/CWS-Bot.git
 cd chatbot
 
 3️⃣ Add Your HuggingFace API Token
